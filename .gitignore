@@ -2,9 +2,5 @@
 *
 
 # unignore all with extensions
-!*.*
-.DS_Store
-
-# unignore all dirs
-!*/
-*/.DS_Store
+!*.c
+!.gitignore
